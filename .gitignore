@@ -1,0 +1,4 @@
+# ignore all ini
+*.ini
+**/desktop.ini
+desktop.ini
