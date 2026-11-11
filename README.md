@@ -3,6 +3,4 @@ This repository collects multiple machine learning methods to use for statistica
 - k-NN
 - Random Forest
 - Linear regression
-- MLP
-- CSD
 - Weather Generator
