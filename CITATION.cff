@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "DSModel: Statistical Downscaling Models"
+abstract: "Machine-learning statistical downscaling (k-NN, random forest, ridge regression, MLP) of climate-model output to weather stations, with NetCDF input and CSV output."
+version: 0.1.0
+# Update date-released when you publish the release; add your ORCID and, after the first
+# Zenodo release, the DOI (doi: "10.5281/zenodo.XXXXXXX").
+date-released: 2026-11-12
+authors:
+  - family-names: Duarte
+    given-names: Santiago
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/sduarte09/DSModel"
+license: MIT
+keywords:
+  - statistical downscaling
+  - climate
+  - machine learning
+  - precipitation
+  - hydroinformatics
